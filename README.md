@@ -1,4 +1,4 @@
-<h1 align="center">Hey My name is Amuche Christian<br>I am a Data Analyst</h1>
+<h1 align="left">Hey!, Welcome to my Portfolio</h1>
 
 ###
 
