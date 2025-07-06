@@ -32,7 +32,7 @@ To bridge the gap between health and data by using analytics to improve decision
 - Microsoft Power Query Editor
 
 # 📂 Projects
-- 📊 [Data Cleaning Report in Excel](#): Cleaned data using power query in Excel.
+- 📊 [Data Cleaning Report in Excel](#): Cleaned data using power query in Excel. [View Project](https://github.com/ChristeeAnalytics/Excel-Projects/tree/main/Data%20Cleaning)
 - 📈 [Sales Data Tracker in Excel](#): Created an automated Excel dashboard for monthly sales reporting.
 
 # 📬 Call to Action
